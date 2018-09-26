@@ -5,6 +5,8 @@ This code will quickly and automatically find
 Google's <a href="https://www.quora.com/What-is-Google%E2%80%99s-Foobar">FooBar</a> challenge for those interested in trying it.
 </p>
 
+<img src="https://user-images.githubusercontent.com/22604455/46056683-6f44f980-c117-11e8-9242-718f18ff7b5e.PNG" width="100%" />
+
 ## Prerequisites
 
 ### Languages
@@ -20,5 +22,8 @@ page and select the version of your choice.
 Run the installer and follow the instructions provided.
 </p>
 
-## Adaptations
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgements
 Inspired by [Foobar-Hunter-Bot](https://github.com/Klutix/Foobar-Hunter-Bot) written by [Gabriel Wohlford](https://github.com/Klutix)
