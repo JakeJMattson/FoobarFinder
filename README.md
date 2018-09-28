@@ -1,5 +1,14 @@
 # FoobarFinder
 
+<p align="center">
+  <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">
+    <img src="https://img.shields.io/badge/Java-8-blue.svg" alt="Java 8">
+  </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/github/license/JakeJMattson/FoobarFinder.svg" alt="license">
+  </a>
+</p>
+
 <p align="justify">
 This code will quickly and automatically find 
 Google's <a href="https://www.quora.com/What-is-Google%E2%80%99s-Foobar">FooBar</a> challenge for those interested in trying it.
