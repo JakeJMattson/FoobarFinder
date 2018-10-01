@@ -8,8 +8,7 @@
 </p>
 
 <p align="justify">
-This code will quickly and automatically find 
-Google's <a href="https://www.quora.com/What-is-Google%E2%80%99s-Foobar">FooBar</a> challenge for those interested in trying it.
+<a href="https://medium.com/@avery_1242/my-experience-with-google-foobar-tips-for-tackling-googles-legendary-coding-challenge-dbc20a054e4e">Google's Foobar challenge</a> is "a kind of recruitment tool for Google. In order to join Foobar, you must be invited by a friend or have it popup when searching certain CS terms on Google." If you're interested in trying Foobar, I have automated the process of finding it. Simply run this tool, wait a few seconds, and you'll be presented with an option to try it. Once onto the site, you can sign into your Google account to link them together. This gives you the option to resume your session by returning to the <a href="https://www.google.com/foobar/">Foobar website</a>. You can also choose not to sign in, but your progress will not be saved.
 </p>
 
 <img src="https://user-images.githubusercontent.com/22604455/46056683-6f44f980-c117-11e8-9242-718f18ff7b5e.PNG" width="100%" />
