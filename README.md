@@ -44,6 +44,12 @@ To use Selenium, you will need to download the Java language bindings and a WebD
 Both can be found on the <a href="https://www.seleniumhq.org/download/">Selenium Downloads</a> page. This will require several manual code alterations.
 </p>
 
+## Building
+This project is built with Maven. To build the `pom.xml` file, please follow the import instructions for your IDE.
+* [IntelliJ](https://www.tutorialspoint.com/maven/maven_intellij_idea.htm)
+* [Eclipse](https://www.tutorialspoint.com/maven/maven_eclispe_ide.htm)
+* [NetBeans](https://www.tutorialspoint.com/maven/maven_netbeans.htm)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
