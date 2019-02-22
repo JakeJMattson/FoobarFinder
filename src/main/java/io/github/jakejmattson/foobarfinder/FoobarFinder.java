@@ -18,14 +18,10 @@ public class FoobarFinder
 
 	private static void search(WebDriver driver, String[] keywords)
 	{
-		boolean notFound;
-
 		do
 		{
 			driver.get("https://www.google.com/search?q=" + keywords[new Random().nextInt(keywords.length)]);
-			notFound = driver.findElements(By.className("button-block")).isEmpty();
-
-		} while (notFound);
+		} while (driver.findElements(By.className("button-block")).isEmpty());
 
 		driver.manage().window().maximize();
 		JOptionPane.showMessageDialog(null, "Please sign in to your google account to claim.",
