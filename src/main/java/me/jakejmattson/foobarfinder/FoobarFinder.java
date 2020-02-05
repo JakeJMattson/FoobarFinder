@@ -1,4 +1,4 @@
-package io.github.jakejmattson.foobarfinder;
+package me.jakejmattson.foobarfinder;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
